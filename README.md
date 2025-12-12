@@ -3,7 +3,7 @@
 **Contact Form** is an interactive web form that allows users to submit their information securely and efficiently. It features real-time input validation and a clean, responsive design to enhance user experience.
 
 ## 🌟 Features
-- Collect user information (name, email, message)
+- Collect user information (name, email, password)
 - Real-time validation for better data accuracy
 - Responsive and user-friendly interface
 - Built with **HTML, CSS, and JavaScript**
